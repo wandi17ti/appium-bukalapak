@@ -31,12 +31,12 @@
 {
   "platformName": "android",
   "platformVersion": "9.0.0",
-  "deviceName": "cbce97bd",
+  "deviceName": "emulator-5554",
   "noReset": "True",
-  "appPackage": "com.ralali",
-  "appActivity": "com.ralali.MainActivity",
+  "appPackage": "com.bukalapak.android",
+  "appActivity": ".HomeActivity_",
   "automationName": "Appium",
-  "app": "/Users/macbook/eclipse-workspace/AppiumTutorial/src/ralali.apk"
+  "app": "D:/Documents/Belajar Appium Bukalapak/com.bukalapak.android_2021-09-29.apk"
 }
 ```
 
