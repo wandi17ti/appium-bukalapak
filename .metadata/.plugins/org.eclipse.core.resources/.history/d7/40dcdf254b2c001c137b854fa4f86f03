@@ -1,0 +1,13 @@
+package test_file;
+
+import bsh.Capabilities;
+import io.appium.java_client.android.AndroidDriver;
+
+public class login extends b_base {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		AndroidDriver<AndroidElement> driver = Capabilities();
+	}
+
+}

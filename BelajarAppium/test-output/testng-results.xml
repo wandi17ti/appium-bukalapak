@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-19T14:16:09 WIB" name="Default suite" finished-at="2021-10-19T14:19:57 WIB" duration-ms="228409">
+    <groups>
+    </groups>
+    <test started-at="2021-10-19T14:16:09 WIB" name="Default test" finished-at="2021-10-19T14:19:57 WIB" duration-ms="228409">
+      <class name="test_file.b_checkout">
+        <test-method signature="CheckoutSKU()[pri:0, instance:test_file.b_checkout@156b88f5]" started-at="2021-10-19T14:16:09 WIB" name="CheckoutSKU" finished-at="2021-10-19T14:19:57 WIB" duration-ms="228382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutSKU -->
+      </class> <!-- test_file.b_checkout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+package test_file;
+
+import java.net.MalformedURLException;
+
+import bsh.Capabilities;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+
+public class login extends b_base {
+
+	public void InvalidEmail() throws InterruptedException, MalformedURLException {
+		// TODO Auto-generated method stub
+		AndroidDriver<AndroidElement> driver = Capabilities();
+	}
+
+}

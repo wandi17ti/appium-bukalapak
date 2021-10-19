@@ -1,0 +1,12 @@
+package test_file;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+public class base {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DesiredCapabilities cap = new DesiredCapabilities();
+	}
+
+}
